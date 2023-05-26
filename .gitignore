@@ -1,0 +1,4 @@
+*.asv
+RunModel.asv
+VariationResults\**
+*.DS_Store
